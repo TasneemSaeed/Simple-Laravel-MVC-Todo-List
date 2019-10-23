@@ -1,0 +1,67 @@
+
+/* main */
+
+body {
+	background-color: #f4f5f5;
+
+}
+
+
+
+
+/* main */
+
+/* header */
+
+
+.navbar-nav {
+	list-style: none;
+	overflow: hidden;
+    float: right;
+
+}
+
+.navbar-nav li{
+    padding: 15px 8px 0px 0px;
+}
+
+.navbar-nav li a {
+	color: #000;
+}
+.navbar-nav li a:hover {
+	color: #337ab7;
+}
+
+
+/* Tasks */
+
+.tasks {
+	color: #333;
+	background-color: #cbe1f3;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.tasks h3 {
+	text-align: left ;
+}
+.showTask img {
+    margin-top: 50px;
+    height: 60px;
+    width: 60px;
+}
+
+.right , .left {
+    margin-top: 85px;
+    height: 50px;
+    width: 50px;
+}
+
+.btns {
+    padding : 20px 95px;
+    display: flex;
+    justify-content: center;
+}
+/* Tasks */
+
+
