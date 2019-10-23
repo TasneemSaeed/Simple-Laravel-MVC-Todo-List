@@ -1,4 +1,4 @@
-!(https://img.icons8.com/officel/16/000000/checked.png)
+![img](https://img.icons8.com/officel/16/000000/checked.png)
 ## To-Do List
 
 A To-Do List MVC application to save all your tasks.
